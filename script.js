@@ -12,11 +12,11 @@ function getData() {
     '<img src="https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600" alt="female laughing with yellow background" />'
   title.innerHTML = 'HireBen '
   excerpt.innerHTML =
-    'Coding thai Where you can Learn HTML CSS and JS you can find the project of Web Development '
+    'Where you can find all my project of Web Development '
   profile_img.innerHTML =
     '<img src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600" alt="business handshake" />'
-  name.innerHTML = 'Devi Chand'
-  date.innerHTML = 'Oct 08, 2022'
+  name.innerHTML = 'Ben'
+  date.innerHTML = '2024'
   animated_bgs.forEach((bg) => bg.classList.remove('animated-bg'))
   animated_bg_texts.forEach((bg) => bg.classList.remove('animated-bg-text'))
 }
